@@ -1,5 +1,4 @@
 function timeDifference(current, previous) {
-  console.log({ current, previous });
   const milliSecondsPerMinute = 60 * 1000;
   const milliSecondsPerHour = milliSecondsPerMinute * 60;
   const milliSecondsPerDay = milliSecondsPerHour * 24;
